@@ -2,7 +2,6 @@ package cn.com.hades.controller;
 
 import cn.com.hades.examples.User;
 import cn.com.hades.feign.FeignEurekaClient;
-import cn.com.hades.feign.FeignUserClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
